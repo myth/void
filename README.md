@@ -8,25 +8,29 @@ modules that export said types, objects and endpoints.
 
 #### Progress / Wishlist
 
-- Language definition
-    - [ ] Primitives
-    - [ ] Modules
-    - [ ] Apis / Packages
-    - [ ] Comments
-    - [ ] Enum
-    - [ ] List
-    - [ ] Map
-    - [ ] Set
-    - [ ] HTTP Endpoints
-    - [ ] WebSocket Endpoints
-    - [ ] Docstrings
-    - [ ] Streams
+Language definition:
+
+- [ ] Primitives
+- [ ] Modules
+- [ ] Apis / Packages
+- [ ] Comments
+- [ ] Enum
+- [ ] List
+- [ ] Map
+- [ ] Set
+- [ ] HTTP Endpoints
+- [ ] WebSocket Endpoints
+- [ ] Docstrings
+- [ ] Streams
+
+Compiler modules:
+
 - [ ] Lexer
 - [ ] AST
-- [ ] Parser
+- [ ] Parser
 - [ ] Typescript backend
-- [ ] Python backend
-- [ ] Go backend
+- [ ] Python backend
+- [ ] Go backend
 - [ ] Caching
 
 #### Language Characteristics
