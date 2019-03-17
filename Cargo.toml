@@ -1,0 +1,11 @@
+[package]
+name = "void"
+version = "0.1.0"
+authors = ["Aleksander S. <myth@overflow.no>"]
+publish = false
+
+[dependencies]
+ansi_term = "0.11"
+clap = "2.32"
+log = "0.4"
+walkdir = "2.2"

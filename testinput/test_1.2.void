@@ -1,0 +1,19 @@
+module test 1.2;
+
+type FooBarStatusLevel enum {
+    LOW,
+    MEDIUM,
+    HIGH,
+}
+
+type FooBar struct {
+    foo: string,
+    bar: int,
+}
+
+type FooBarStatus Map<string, int>;
+
+# Implicit empty request
+endpoint GetFooBar {
+    response: List<FooBar>
+}
